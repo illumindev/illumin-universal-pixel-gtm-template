@@ -1,5 +1,5 @@
 homepage: "https://illumin.com/"
 documentation: "https://github.com/illumindev/illumin-universal-pixel-gtm-template/blob/main/DOCUMENTATION.md"
 versions:
-  - sha: 2b7d79fcd0129fd19fdd1375c9ffa747834bbcd5
+  - sha: 3101cfed2128ef404d18cd3ed80391b40a3db179
     changeNotes: Initial release.
